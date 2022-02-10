@@ -1,2 +1,2 @@
-# linting
+# ⚡ linting ⚡
 My personal 
