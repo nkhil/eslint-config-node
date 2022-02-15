@@ -1,0 +1,28 @@
+{
+  "name": "@nkhil/eslint-config-node",
+  "version": "1.0.0",
+  "description": "My personal linting library",
+  "main": "index.js",
+  "scripts": {
+    "test": "npm t"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/nkhil/eslint-config-node.git"
+  },
+  "author": "Nikhil Vijayan <nkhilv@gmail.com>",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/nkhil/eslint-config-node/issues"
+  },
+  "homepage": "https://github.com/nkhil/eslint-config-node#readme",
+  "dependencies": {},
+  "devDependencies": {
+    "@typescript-eslint/eslint-plugin": "^5.12.0",
+    "@typescript-eslint/parser": "^5.12.0",
+    "eslint": "^8.9.0",
+    "eslint-config-airbnb-base": "^15.0.0",
+    "eslint-plugin-import": "^2.25.4",
+    "typescript": "^4.5.5"
+  }
+}
