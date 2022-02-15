@@ -1,2 +1,3 @@
 # ⚡ linting ⚡
-My personal 
+
+My personal linting library
