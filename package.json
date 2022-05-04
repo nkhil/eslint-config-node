@@ -4,7 +4,7 @@
   "description": "My personal linting library",
   "main": "index.js",
   "scripts": {
-    "test": "npm t"
+    "test": "echo \"No tests found\""
   },
   "repository": {
     "type": "git",
