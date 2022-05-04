@@ -1,3 +1,10 @@
-# ⚡ linting ⚡
+# ⚡ Node linting rules (shared) ⚡
 
-My personal linting library
+This is my (@nkhil's) personal linting library for node projects.
+
+## Installation
+
+```console
+npm i -D @nkhil/eslint-config-node
+```
+
