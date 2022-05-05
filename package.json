@@ -1,6 +1,6 @@
 {
   "name": "@nkhil/eslint-config-node",
-  "version": "0.0.5",
+  "version": "0.0.6",
   "description": "My personal linting library",
   "main": "index.js",
   "scripts": {
