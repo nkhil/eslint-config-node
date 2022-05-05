@@ -17,7 +17,7 @@ module.exports = {
     sourceType: 'module',
   },
   plugins: [
-    'plugin:import/typescript',
+    'import/typescript',
   ],
   rules: {
     semi: ['error', 'never'],
