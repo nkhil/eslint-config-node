@@ -12,9 +12,10 @@ module.exports = {
     sourceType: 'module',
   },
   plugins: [
-    '@typescript-eslint',
+    'plugin:import/typescript',
   ],
   rules: {
     semi: ['error', 'never'],
+    'import/extensions': 0,
   },
 }
