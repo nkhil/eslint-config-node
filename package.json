@@ -6,6 +6,9 @@
   "scripts": {
     "test": "echo \"No tests found\""
   },
+  "bin": {
+    "run-linter": "eslint ."
+  },
   "repository": {
     "type": "git",
     "url": "git+https://github.com/nkhil/eslint-config-node.git"
